@@ -6,7 +6,7 @@ Proje Konusu: Veri Depolama ve RLE Sıkıştırma Algoritması
 
 🎥 Proje Sunum Videosu
 Proje anlatım videoma aşağıdaki linkten ulaşabilirsiniz:
-[Buraya YouTube Linkini Yapıştıracaksın]
+https://youtu.be/xEjGy8B7Pvs
 
 📝 Proje Açıklaması
 Bu proje, Python dili kullanılarak RLE (Run-Length Encoding) sıkıştırma algoritmasını simüle eder.
