@@ -4,10 +4,6 @@ Adı Soyadı: Aliekber Görmüş
 Öğrenci Numarası: 24360859061
 Proje Konusu: Veri Depolama ve RLE Sıkıştırma Algoritması
 
-🎥 Proje Sunum Videosu:
-Proje anlatım videoma aşağıdaki linkten ulaşabilirsiniz:
-https://youtu.be/xEjGy8B7Pvs
-
 📝 Proje Açıklaması:
 ## 🛠 Kodun Çalışma Mantığı
 
